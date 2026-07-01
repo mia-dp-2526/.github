@@ -12,8 +12,3 @@ Team websites
 * https://mia-dp-2526.github.io/team10
 * https://mia-dp-2526.github.io/team11
 * https://mia-dp-2526.github.io/team12
-
-* d
-* cds
-* cds
-* cds
